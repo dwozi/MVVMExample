@@ -4,5 +4,5 @@
 
 - RxSwift used with Swift Package Manager
 
--Based on MVVM architecture
+- Based on MVVM architecture
 
